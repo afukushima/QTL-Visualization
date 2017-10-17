@@ -9,7 +9,9 @@ An example app on the web created by Julin Moloof's lab:
 Installation
 ------------
 ```R
+install.packages("shiny")
 library(shiny)
+## to run this app
 runGitHub("QTL-Visualization", "afukushima")
 ```
 
