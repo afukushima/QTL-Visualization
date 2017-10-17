@@ -9,8 +9,6 @@ An example app on the web created by Julin Moloof's lab:
 Installation
 ------------
 ```R
-install.packages("devtools")
-
 library(shiny)
 runGitHub("QTL-Visualization", "afukushima")
 ```
